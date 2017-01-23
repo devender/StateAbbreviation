@@ -24,5 +24,6 @@ func TestGetAbbreviation(t *testing.T) {
 	test(t, "Ore.", "OR")
 	test(t, "Ore.", "OR")
 	test(t, "N.H.", "NH")
+	test(t, "WA.", "WA")
 
 }

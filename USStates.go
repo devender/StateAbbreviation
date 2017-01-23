@@ -242,6 +242,7 @@ func init() {
 	usStates["washington"] = "WA"
 	usStates["wash"] = "WA"
 	usStates["wn"] = "WA"
+	usStates["wa"] = "WA"
 
 	//https://en.wikipedia.org/wiki/Wisconsin
 	usStates["wisconsin"] = "WI"
