@@ -259,6 +259,7 @@ func init() {
 	//https://en.wikipedia.org/wiki/Wyoming
 	usStates["wyoming"] = "WY"
 	usStates["wi"] = "WY"
+	usStates["wy"] = "WY"
 	usStates["wyo"] = "WY"
 
 	//https://en.wikipedia.org/wiki/Washington,_D.C.
